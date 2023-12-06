@@ -1,0 +1,25 @@
+taille composant 
+
+esp :
+
+longueur : 5,6 cm
+largeur : 2,8 cm
+hauteur : 1,4 cm
+
+mq sensor :
+
+longueur : 4 cm
+largeur : 2 cm
+hauteur : 2,3 cm
+
+Pile (heure) :
+
+longueur : 4,5 cm
+largeur : 2,2 cm
+hauteur : 1,4 cm
+
+BMP :
+
+longueur : 1,5 cm
+largeur : 1,2 cm
+hauteur : 1,1 cm 
